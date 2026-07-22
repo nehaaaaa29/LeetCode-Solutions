@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Prefix Sum
 |  |
