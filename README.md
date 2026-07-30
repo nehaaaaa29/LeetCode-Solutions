@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
