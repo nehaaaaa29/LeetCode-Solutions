@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1004-max-consecutive-ones-iii](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/nehaaaaa29/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
